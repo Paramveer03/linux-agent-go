@@ -1,0 +1,15 @@
+# Go project exclusions
+
+# Binary outputs
+bin/
+dist/
+*.exe
+*.so
+*.dylib
+
+# Environment files
+.env
+.DS_Store
+
+# Vendor directory
+vendor/
